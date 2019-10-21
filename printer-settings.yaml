@@ -1,0 +1,18 @@
+Printer Type: Creality CR 10
+Port: /dev/ttyUSB0 (in elementaryOS)
+Printer Settings:
+  X (Width):  220 mm
+  Y (Depth):  220 mm
+  Z (Height): 250 mm
+  Build plate shape: Rectangular
+  Origin at Center: false
+  Heated bed:       true
+  Gcode flavor: Marlin
+Printhead Settings:
+  X min: 20 mm
+  Y min: 10 mm
+  X max: 10 mm
+  Y max: 10 mm
+  Gantry height: 30 mm
+  Material diameter: 1.75 mm
+  Nozzle size: 0.4 mm
